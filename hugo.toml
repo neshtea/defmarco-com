@@ -1,0 +1,62 @@
+baseURL = 'https://defmarco.com/'
+locale = 'en-us'
+title = 'defmarco.com'
+theme = 'hugo-coder'
+lnaguageCode = "en"
+
+[params]
+  author = 'Marco Schneider'
+  description = 'Marco Schneiders personal website.'
+  gravatar = 'marco.schneider@posteo.de'
+  fediverseCreator = 'anarres@chaos.social'
+  colorScheme = 'auto'
+  since = 2021
+
+[languages]
+  [languages.en]
+    contentDir = 'content/english'
+    label = "English"
+    weight = 1
+  [languages.de]
+    contentDir = 'content/german'
+    label = "German"
+    weight = 2
+    
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url = "posts/"
+[[menu.main]]
+  name = "Output"
+  weight = 2
+  url = "output/"
+[[menu.main]]
+  name = "About"
+  weight = 3
+  url = "about/"
+[[menu.main]]
+  name = "Imprint"
+  weight = 4
+  url = "imprint/"
+
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/neshtea/"
+  target = "_blank"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa-brands fa-linkedin fa-2x"
+  weight = 2
+  url = "https://www.linkedin.com/in/marco-schneider-34391612a/"
+  target = "_blank"
+[[params.social]]
+  name = "Fediverse"
+  icon = "fa-brands fa-mastodon fa-2x"
+  weight = 3
+  url = "https://chaos.social/@anarres"
+  target = "_blank"
+
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md filesp

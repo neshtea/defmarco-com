@@ -1,0 +1,12 @@
+/public/
+/resources/_gen/
+/assets/jsbin/
+hugo_stats.json
+.hugo_build.lock
+.DS_Store
+Thumbs.db
+.env
+.env.local
+
+# Logs
+*.log
