@@ -16,8 +16,8 @@ title: Output
 
 ### [Collaborative Data Modeling: Discovering Domain Types Through Linguistic Cues](https://2026.dddeurope.com/program/collaborative-data-modeling-discovering-domain-types-through-linguistic-cues/)
 
-*DDD Europe, Antwerp, June 10th, 2026*. In collaboration with [Martin
-Günther](https://martinguenther-consulting.de/de/). From the abstract:
+*DDD Europe, Antwerp, June 10th, 2026*. Gemeinsam mit [Martin
+Günther](https://martinguenther-consulting.de/de/). Aus dem Abstract:
 
 > "In this hands-on lab, you'll learn Collaborative Data Modeling: a sticky-note
 > technique that makes algebraic data types accessible to everyone. Through
@@ -28,15 +28,15 @@ Günther](https://martinguenther-consulting.de/de/). From the abstract:
 
 ### [Functional Programming in Typescript](https://bobkonf.de/2026/hagenlocher.html)
 
-*BOB Konferenz, Berlin, March 13th 2026*. In collaboration with [Beat
-Hagenlocher](https://beathagenlocher.com/). From the abstract:
+*BOB Konferenz, Berlin, March 13th 2026*. Gemeinsam mit [Beat
+Hagenlocher](https://beathagenlocher.com/). Aus dem Abtract:
 
 > "By the end, you’ll understand not only functional programming patterns, but
 > how you can employ them in TypeScript development"
 
 ### [Funktionale Programmierung -- Einführung](https://web.archive.org/web/20240917025605/https://rheinwerk-kkon.de/workshops/schneider-einstieg-funktionale-programmierung-einstieg/?ref=defmarco.com)
 
-*Rheinwerk KKon, online, September 2023 and 2024*. From the abstract (German): 
+*Rheinwerk KKon, online, September 2023 and 2024*. Aus dem Abtract:
 
 > Um in die funktionale Programmierung einzusteigen, muss man Kotlin nicht
 > verlassen. Trotzdem betritt man eine ganz neue Welt. [...] Hierbei steht die
