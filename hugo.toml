@@ -1,8 +1,7 @@
 baseURL = 'https://defmarco.com/'
-locale = 'en-us'
 title = 'defmarco.com'
 theme = 'hugo-coder'
-lnaguageCode = "en"
+defaultContentLanguage = 'en'
 
 [params]
   author = 'Marco Schneider'
@@ -16,12 +15,17 @@ lnaguageCode = "en"
   [languages.en]
     contentDir = 'content/english'
     label = "English"
+    # languageName is deprecated since Hugo 0.158 but hugo-coder still reads
+    # .Language.LanguageName; keep until the theme switches to .Label.
+    languageName = "English"
     weight = 1
   [languages.de]
     contentDir = 'content/german'
     label = "German"
+    languageName = "German"
     weight = 2
-    
+
+
 [[menu.main]]
   name = "Blog"
   weight = 1
@@ -59,4 +63,4 @@ lnaguageCode = "en"
   target = "_blank"
 
 [markup.goldmark.renderer]
-  unsafe = true # Allow HTML in md filesp
+  unsafe = true # Allow HTML in md files
