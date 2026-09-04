@@ -26,6 +26,12 @@ Günther](https://martinguenther-consulting.de/de/). Aus dem Abstract:
 > structure of your functions follows — case distinctions emerge from data, not
 > guesswork."
 
+Es gibt auch eine Aufnahme des Workshops von der [Aufnahme des
+Workshops](https://www.youtube.com/watch?v=iHa6u4t-kOA) bei [Virtual
+Domain-driven
+design](https://virtualddd.com/sessions/collaborative-data-modeling-linguistic-cues/)
+auf YouTube zur Nachlese.
+
 ### [Functional Programming in Typescript](https://bobkonf.de/2026/hagenlocher.html)
 
 *BOB Konferenz, Berlin, March 13th 2026*. Gemeinsam mit [Beat
